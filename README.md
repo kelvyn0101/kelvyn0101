@@ -1,4 +1,4 @@
 - 👋 Olá, me chamo Luiz Kelvyn!
 - 👀 Estou interessado em aprender liguagens backend.
-- 🌱 No momento, estou estudando a linguagem C.
+- 🌱 No momento, estou estudando a linguagem Java com o curso do DevDojo Virado no jiraya.
 - 💞️ Espero poder demonstrar alguma habilidade de codar no decorrer deste ano.
